@@ -9,7 +9,7 @@ manifest:
       remote: zmkfirmware
       revision: v0.3
       import: app/west.yml
-    - name: nice_view_beat
+    - name: nice-view-mod
       remote: beatnik
       revision: main
   self:

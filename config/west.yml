@@ -9,6 +9,9 @@ manifest:
       remote: zmkfirmware
       revision: v0.3
       import: app/west.yml
+    - name: nice-view
+      remote: ncoutsos
+      revision: main
     - name: nice_view_beat
       remote: beatnik
       revision: main
